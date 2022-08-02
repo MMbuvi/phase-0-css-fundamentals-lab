@@ -3,3 +3,53 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+figure{
+  margin-left: 25%;
+}
+nav{
+  text-align: center;
+  
+  
+}
+figcaption{
+  font-size: small;
+  text-align: center;
+
+
+}
+#index{
+  background-color: grey;
+
+}
+#Properties{
+  background-color: grey;
+}
+#estate{
+  background-color: grey;
+}
+#report{
+  background-color: grey;
+}
+#contact{
+  background-color: grey;
+}
+#hud{
+  background-color: grey;
+}
+.footer{
+display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 200px auto;
+  gap: 30px;
+  background-color: red;
+  height: 150px;
+}
+.correct{
+  width: 800px;
+  text-align: center;
+  margin-left: 25%;
+
+}git c
